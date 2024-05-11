@@ -32,8 +32,8 @@ public class Hw18 {
         System.out.println("==============");
 
         //4
-        String str7 = "JjjKkkKllLL";
-        String str8 = "dfghgfdsafgdsa";
+        String str7 = "Hello";
+        String str8 = "JjjKkkKllLL";
         System.out.println(removeRepeatingLetters(str7));
         System.out.println(removeRepeatingLetters(str8));
         System.out.println("==============");
