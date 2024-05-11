@@ -18,7 +18,12 @@ public class MainHw16 {
 
         Androids samsung = new Androids();
         IPhones iPhone = new IPhones();
-
+        samsung.call();
+        samsung.sms();
+        samsung.internet();
+        iPhone.call();
+        iPhone.sms();
+        iPhone.internet();
     }
 
 }
